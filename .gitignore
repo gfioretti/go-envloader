@@ -14,3 +14,5 @@ go.work.sum
 
 # Output of go build
 /dist/
+
+coverage.out
